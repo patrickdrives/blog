@@ -6,7 +6,6 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br/>
 I’m Pat, and I have a car problem.
 
 I often find myself spewing off car nonsense to my girlfriend, so maybe a blog would be a better place to exhaust myself. Pun intended.
@@ -29,10 +28,8 @@ Let’s learn together, and learn from each other. "Carcaine" is much more fun w
 <span class="contacticon center">
 	<a href="patrickabalex@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/patrickdrives" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.instagram.com/patrick.drives/"><i class="fa fa-instagram-square"></i></a>
+	<a href="https://www.instagram.com/patrick.drives/"><i class="fa fa-instagram"></i>
 	
-</span>
-
 <div class="col three caption">
 	You can even add a little note about which of these is the best way to reach you.
 </div>
