@@ -2,7 +2,8 @@
 layout: post
 title:  2018 Ontario Time Attack Season Recap: Always Begin.
 date:   2019-04-15 16:40:16
-description: 2018 Ontario Time Attack Season Recap: Always Begin.
+description: 2018 Ontario Time Attack Season Recap: Always Begin
+
 ---
 This is the first installment of my 2018 season recap. Track School and Event 1 at Toronto Motorsports Park.
 
