@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: 2019 Ontario Time Attack Season Recap - Always Begin 
+date: 2019-04-15 15:09:00
+description: OTA DDT School and Event 1 Recap
 ---
 This is the first installment of my 2018 season recap. Track School and Event 1 at Toronto Motorsports Park.
 
