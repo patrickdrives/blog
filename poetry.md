@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+permalink: /High Performance Driving/
+title: driving
+description: High Performance driving blogs - event summaries, stories from the track, and HPDE reflection.
 ---
 
 <ul class="post-list">
