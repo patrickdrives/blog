@@ -19,7 +19,6 @@ If you're looking to get into the whole track driving thing, and are from the Gr
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/DDT AutoX.JPG">
 </div>
-
 Track School, Mosport DDT skidpad. [Michael "Tanner" Tan](https://www.flickr.com/photos/tanm/) caught this shot.
 
 It becomes clear very quickly that formal driver training is almost mandatory to become faster. I had gone to a couple of track days beforehand, but I didn't realize how important it was to have in instructor watch your habits and stop them from becoming your "Achilles Heel(s)". It was also very clear that my vision was a big problem for me since I found difficulty in the AutoX section. Maybe it was because it was my first time on an AutoX course, but still, I needed to develop a better sense of my surroundings and a feel for the size of the car. Getting into performance driving, one phrase that would be constantly repeated to you over and over is "Eyes up, look ahead". It is very difficult to be prepared for the next braking zone or corner if you're not even looking.
@@ -36,7 +35,6 @@ Before I get too far "off-track" (haha) - this is a recap, not a lecture. But I 
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/TMP T11-T12.jpg">
 </div>
-
 Event 1, Toronto Motorsports Park Cayuga: Two new friends I met are in this photo. [Nick Maitland](https://www.instagram.com/heavymanufacturing/) sitting shotgun giving me some more coaching, and [Alex Cocar] (https://www.instagram.com/alex_cocarphoto/) behind the lens. Shout out for making this whole track thing even more rad!
 
 [TMP](https://torontomotorsportspark.com/) is what I would consider my "home" course, as would a lot of Ontario drivers. Open lapping is cheap, frequent, and your lap times can be bench-marked with so many other drivers, making it even more fun to get better. It was my first competition event, so I was quite nervous all morning. Wearing a Fitbit is a good way to scare you're self even more because you can read your heart rate, and I swear mine was above 90 BPM all day. I actually had to be stopped by one of the volunteers because I guess they saw my frantic face and rushing feet to get my car to the mandatory technical inspection, and they reminded me that its cool to be nervous, but there is nothing to be afraid of. I needed that.
@@ -58,6 +56,7 @@ The first and second competition sections were damp, and for the first time on a
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/IMG_4222.jpg">
 </div>
+
 The final competition run was on a dry track, because that is the natural way of things in Ontario, Canada - unpredictable. I managed a 1:28:658, which was able to get me 6th place in my class for Event 1, and 9th Top novice of the day. It felt really great to have a result like that for my first event. I'm not terrible, but wow did I have a lot to learn. After reviewing the video footage and heat map of my fastest lap on Harry's Lap Timer, my mistakes were clear. This makes data so critical. Highlight your mistakes and fix them if they're a problem, but don't let your lap timer distract you like it did me - I focused too much on the timer, and often missed markers as a result.
 
 <div class="img_row">
@@ -78,7 +77,7 @@ The tires and sideskirt were absolutely covered in mud. No regrets.
 *   __Eyes Up, Look Ahead__ -  look through corners and not at them. [Ross Bentley's Speed Secrets](https://www.amazon.com/Ultimate-Speed-Secrets-Complete-High-Performance/dp/0760340501/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=4JY39K44PE8CZMAVABC5) goes in-depth about this. Read and learn.
 *  __Slow is Smooth, Smooth is fast__ - again, see Ross Bentley. I tend to jerk the wheel thinking the grip is there and that turn-in is sudden and fast, which in many cases is wrong and just leads to understeer – no load was given to the tires before turning.
 * __Its okay to be nervous__, but drink water and breathe to ease yourself before your session. Driving should have 100% of your focus.
-* Don't give it the beans on your first lap out. Tires are cold, and your mind/eyes could use some warm up as well - Racing is 99% mental. I spun out the first turn of the first lap, and I was also the first driver out. That was humbling, but I'm glad I found the limit of a cold tire in a safe environment. All else, Full Send!
+* __Don't give it the beans on your first lap out.__ Tires are cold, and your mind/eyes could use some warm up as well - Racing is 99% mental. I spun out the first turn of the first lap, and I was also the first driver out. That was humbling, but I'm glad I found the limit of a cold tire in a safe environment. All else, Full Send!
 * __Get familiar with markers as soon as you can__ - I think I off-tracked for two reasons: I didn't have a marker, so I braked way too late. But you can certainly root cause late braking to the first line item of this list.
 *  __Budgeting is important__, racing is a stupid expensive hobby. Don't spend on modification if you aren't a decent driver first.
 *  __Modern traction control systems are very good__, and aren't as intrusive as people lead on. A key note, as per [Ross Bentley's podcast](https://speedsecrets.com/speedsecrets-podcast/) with Bosch Engineer, [Ryan Kristoff](https://speedsecrets.com/speed-secrets-podcast/042-ryan-kristoff-engineers-view-of-electronic-driver-aids/), is that if you don't know why the systems are intruding on your inputs, you aren't ready to turn them off. Use them to figure out why they're yelling at you. There is no shame.
