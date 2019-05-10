@@ -20,15 +20,19 @@ If you're looking to get into the whole track driving thing, and are from the Gr
 	<img class="col three" src="/img/Blog 1/DDT AutoX.JPG">
 </div>
 
-Track School, Mosport DDT skidpad. [Michael "Tanner" Tan](https://www.flickr.com/photos/tanm/) caught this shot.
+<div class="col three caption">
+	Track School, Mosport DDT skidpad. [Michael "Tanner" Tan](https://www.flickr.com/photos/tanm/) caught this shot.
+</div>
+
 <br/>
 It becomes clear very quickly that formal driver training is almost mandatory to become faster. I had gone to a couple of track days beforehand, but I didn't realize how important it was to have in instructor watch your habits and stop them from becoming your "Achilles Heel(s)". It was also very clear that my vision was a big problem for me since I found difficulty in the AutoX section. Maybe it was because it was my first time on an AutoX course, but still, I needed to develop a better sense of my surroundings and a feel for the size of the car. Getting into performance driving, one phrase that would be constantly repeated to you over and over is "Eyes up, look ahead". It is very difficult to be prepared for the next braking zone or corner if you're not even looking.
 
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/AutoX.JPG">
 </div>
-
+<div class="col three caption">
 The 86 platform is known to corner flat, but RE71-R Grip levels are unreal. It seems that no matter how much body roll you have, it only loads the tire up to grip even more.
+</div>
 <br/>
 Before I get too far "off-track" (haha) - this is a recap, not a lecture. But I could summarize Track School with the following: Entered with an open mind, and left feeling equally debilitated as you are confident, because that is what education is about. Track School to me became about showing as many mistakes as you can naturally make for an instructor to critque you within the time you're with them. Also shout out to the instructors, who are volunteering their time to risk their lives to share their knowledge. They are probably more afraid than you are. After all, your mistakes can hurt or kill them, and they can't do a thing about it. Oh yeah, and the DDT course is my absolute favourite course so far. More about it in the next installment.
 
@@ -36,7 +40,9 @@ Before I get too far "off-track" (haha) - this is a recap, not a lecture. But I 
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/TMP T11-T12.jpg" >
 </div>
-Event 1, Toronto Motorsports Park Cayuga: Two new friends I met are in this photo. [Nick Maitland](https://www.instagram.com/heavymanufacturing/) sitting shotgun giving me some more coaching, and [Alex Cocar](https://www.instagram.com/alex_cocarphoto/) behind the lens. Shout out for making this whole track thing even more rad!
+<div class="col three caption">
+	Event 1, Toronto Motorsports Park Cayuga: Two new friends I met are in this photo. [Nick Maitland](https://www.instagram.com/heavymanufacturing/) sitting shotgun giving me some more coaching, and [Alex Cocar](https://www.instagram.com/alex_cocarphoto/) behind the lens. Shout out for making this whole track thing even more rad!
+</div>
 
 <br/>
 [Toronto Motorsports Park Cayuga (TMP)](https://torontomotorsportspark.com/) is what I would consider my "home" course, as would a lot of Ontario drivers. Open lapping is cheap, frequent, and your lap times can be bench-marked with so many other drivers, making it even more fun to get better. It was my first competition event, so I was quite nervous all morning. Wearing a Fitbit is a good way to scare you're self even more because you can read your heart rate, and I swear mine was above 90 BPM all day. I actually had to be stopped by one of the volunteers because I guess they saw my frantic face and rushing feet to get my car to the mandatory technical inspection, and they reminded me that its cool to be nervous, but there is nothing to be afraid of. I needed that.
@@ -44,9 +50,9 @@ Event 1, Toronto Motorsports Park Cayuga: Two new friends I met are in this phot
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/tmp.JPG" height = "1500">
 </div>
-
-The official track map, pulled from Google Images.
-
+<div class="col three caption">
+	The official track map, pulled from Google Images.
+</div>
 <br/>
 Every OTA event is scheduled the same way: Three run groups each get three 20 minute qualifying sessions, and your fastest time in qualifying determines your position in the first of three competition runs that happens after lunch. Your staging position in the rest of your comp runs are decided by your time in the previous. Each competition run consists of one warm-up lap, three hot laps, and one cool down lap. The morning of qualifying had dry and decent track conditions, but even still I spun out on turn 1 and went way off track in turn 2. Thankfully Nick (who has a years of driving experience on me) was in the car to coach me through both of those "firsts" of my track driving experiences.
 
@@ -68,14 +74,18 @@ The final competition run was on a dry track, because that is the natural way of
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/IMG_4191.jpg">
 </div>
-If you're not having fun, what the hell are you doing?
+<div class="col three caption">
+	If you're not having fun, what the hell are you doing?
+</div>
 <br/>
 Remember that bit about TMP being a benchmark for a lot of drivers? This becomes important considering that fast drivers with similar setups to mine run anywhere between 1:24 and 1:26. One of my favourite things about performance driving is that while there are many different ways to achieve a fast time, slow is slow no matter what. So once you swallow your pride and realize you're slow, you save money. No amount of vehicle modification can help you become faster. You cannot diagnose problems or identify areas of improvement with the car if you as a driver are slow, you simply aren't helping yourself. Think of it this way - there are supercharged BRZ's that will do a 1:23, but naturally aspirated BRZ's that will do a 1:21 - imagine spending $5K on a supercharger setup and still being slower than an NA! Obviously if you don't care to modify specifically for lap times, it doesn't matter. I digress. I'm slow too (a current PB of 1:25.8) and still learning, but so is every single performance driver out there. There are no limits to how much you can improve, if that truly is your intention.
 
 <div class="img_row">
 	<img class="col three" src="/img/Blog 1/back.jpg">
 </div>
-The tires and sideskirt were absolutely covered in mud. No regrets.
+<div class="col three caption">
+	The tires and sideskirt were absolutely covered in mud. No regrets.
+</div>
 <br/>
 ## Lessons Learned...and Still W.I.P.  
 <br/>
