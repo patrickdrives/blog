@@ -33,14 +33,14 @@ Before I get too far "off-track" (haha) - this is a recap, not a lecture. But I 
 # Event 1: Toronto Motorsport Park  
 <br/>
 <div class="img_row">
-	<img class="col three" src="/img/Blog 1/TMP T11-T12.jpg" height = 600>
+	<img class="col three" src="/img/Blog 1/TMP T11-T12.jpg" >
 </div>
 Event 1, Toronto Motorsports Park Cayuga: Two new friends I met are in this photo. [Nick Maitland](https://www.instagram.com/heavymanufacturing/) sitting shotgun giving me some more coaching, and [Alex Cocar](https://www.instagram.com/alex_cocarphoto/) behind the lens. Shout out for making this whole track thing even more rad!
 <br/>
 [Toronto Motorsports Park Cayuga (TMP)](https://torontomotorsportspark.com/) is what I would consider my "home" course, as would a lot of Ontario drivers. Open lapping is cheap, frequent, and your lap times can be bench-marked with so many other drivers, making it even more fun to get better. It was my first competition event, so I was quite nervous all morning. Wearing a Fitbit is a good way to scare you're self even more because you can read your heart rate, and I swear mine was above 90 BPM all day. I actually had to be stopped by one of the volunteers because I guess they saw my frantic face and rushing feet to get my car to the mandatory technical inspection, and they reminded me that its cool to be nervous, but there is nothing to be afraid of. I needed that.
 
 <div class="img_row">
-	<img class="col three" src="/img/Blog 1/tmp.JPG">
+	<img class="col three" src="/img/Blog 1/tmp.JPG" height = "600">
 </div>
 The official track map, pulled from Google Images.
 <br/>
