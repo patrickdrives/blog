@@ -31,6 +31,6 @@ Let’s learn together, and learn from each other. "Carcaine" is much more fun w
 	<a href="https://www.instagram.com/patrick.drives/"><i class="fa fa-instagram"></i>
 	
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	I'm feel free to message me on Facebook or E-Mail to connect!.
 </div>
 
