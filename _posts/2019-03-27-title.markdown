@@ -5,18 +5,17 @@ date: 2019-03-27 21:00:00
 description: XIIIMOTORSPORTS Strut Tower Brace
 ---
 # XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:
-
+<br>
 <div class="img_row">
 	<img class="col three" src="/img/IMG_0075.jpg">
 </div>
-
+<br>
 I will keep it painfully unbiased, and get right into the pros and cons. No track experience with the bar yet, just street manners. Fully disclosing that I drive for Xiii, so you can take my review with that in mind, but note that this is fully candid and am not paid for doing this, nor was the bar a free item.
 
 Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, outlining the work of the strut bar). Tests done with bar on and off.
 
 ## Pros:  
 <br>
-
 - Steering response and feedback is improved, especially on quick (but smooth) inputs. You know when the steering is slighly off-centre and changes in grip due to road angle or undulation are far more instantaneous (chassis flex masks the onset of grip). Steering is tighter.
 
 - Consistency in bumpy corners; where lateral movement of the strut towers will inconsistently react to the mid corner bumps without the bar, the XIII strut tower brace keeps the car reacting in the same fashion. Very predictable, probably great if youre trying to learn a track.
@@ -35,10 +34,9 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 <div class="img_row">
 	<img class="col three" src="/img/IMG_0077.jpg">
 </div>
-
+<br>
 ## Cons:  
 <br> 
-
 - Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
 
 - Increase in cabin NVH; vibrations in car are felt and heard more. Don't use racecar parts if you're not ready for racecar tendencies.
@@ -48,7 +46,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 <div class="img_row">
 	<img class="col three" src="/img/IMG_0079.jpg">
 </div>
-
+<br>
 ## Is it Worth:  
 <br>  
 Absolutely. Remove some of the compromise that lets the BRZ/FRS/86 appeal to the consumer masses, and install a real performance part that adds consistency to the vehicle, and helps you focus on your own driving skill.
