@@ -35,7 +35,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 	<img class="col three" src="/img/IMG_0077.jpg">
 </div>
 <br>
-## Cons:##     
+## Cons: ##     
 
 - Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
 
@@ -47,7 +47,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 	<img class="col three" src="/img/IMG_0079.jpg">
 </div>
 
-## Is it Worth:##       
+## Is it Worth: ##       
 
 Absolutely. Remove some of the compromise that lets the BRZ/FRS/86 appeal to the consumer masses, and install a real performance part that adds consistency to the vehicle, and helps you focus on your own driving skill.
 
