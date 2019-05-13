@@ -1,42 +1,42 @@
 ---
 layout: post
 title: XIIIMOTORSPORTS Strut Tower Brace Review
-date: 2018-03-27 21:00:00
+date: 2019-03-27 21:00:00
 description: XIIIMOTORSPORTS Strut Tower Brace
 ---
-**XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:
+# XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:
 
 I will keep it painfully unbiased, and get right into the pros and cons. No track experience with the bar yet, just street manners. Fully disclosing that I drive for Xiii, so you can take my review with that in mind, but note that this is fully candid and am not paid for doing this, nor was the bar a free item.
 
 Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, outlining the work of the strut bar). Tests done with bar on and off.
 
-**Pros:
+## Pros:
 
 -Steering response and feedback is improved, especially on quick (but smooth) inputs. You know when the steering is slighly off-centre and changes in grip due to road angle or undulation are far more instantaneous (chassis flex masks the onset of grip). Steering is tighter.
 
 -Consistency in bumpy corners; where lateral movement of the strut towers will inconsistently react to the mid corner bumps without the bar, the XIII strut tower brace keeps the car reacting in the same fashion. Very predictable, probably great if youre trying to learn a track.
 
--Small groupings of bumps are felt more at the wheel (increase in overall stiffness), so you can adjust your approach to the corner better, even though it's additional NVH
+- Small groupings of bumps are felt more at the wheel (increase in overall stiffness), so you can adjust your approach to the corner better, even though it's additional NVH
 
--Clear Coated GLEAM
+- Clear Coated GLEAM
 
--Threaded in clamp for A/C line - overlooked by other brands
+- Threaded in clamp for A/C line - overlooked by other brands
 
--Looks rad
+- Looks rad
 
--Made locally in Brampton by your friends at XIIImotorsports
+- Made locally in Brampton by your friends at XIIImotorsports
 
--Lightweight DOM tube support member
+- Lightweight DOM tube support member
 
-**Cons:
+## Cons:
 
--Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
+- Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
 
--Increase in cabin NVH; vibrations in car are felt and heard more. Don't use racecar parts if you're not ready for racecar tendencies.
+- Increase in cabin NVH; vibrations in car are felt and heard more. Don't use racecar parts if you're not ready for racecar tendencies.
 
--Slight interference with the factory sound tube assembly (see under that AWESOME XIIIMOTORSPORTS welded badge). This interference causes noise on start up, but that's it. All of you delete the sound tube anyway.
+- Slight interference with the factory sound tube assembly (see under that AWESOME XIIIMOTORSPORTS welded badge). This interference causes noise on start up, but that's it. All of you delete the sound tube anyway.
 
-**Is is Worth:
+## Is it Worth:
 
 Absolutely. Remove some of the compromise that lets the BRZ/FRS/86 appeal to the consumer masses, and install a real performance part that adds consistency to the vehicle, and helps you focus on your own driving skill.
 
