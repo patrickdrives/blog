@@ -32,7 +32,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 
 - Lightweight DOM tube support member
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/IMG_0077.jpg">
+	<img class="col three" src="/img/IMG_0077.jpg">
 </div>
 
 ## Cons:
@@ -44,7 +44,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 - Slight interference with the factory sound tube assembly (see under that AWESOME XIIIMOTORSPORTS welded badge). This interference causes noise on start up, but that's it. All of you delete the sound tube anyway.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/IMG_0079.jpg">
+	<img class="col three" src="/img/IMG_0079.jpg">
 </div>
 
 ## Is it Worth:
@@ -56,10 +56,6 @@ Did I mention you can order these powder coated? Functional engine dress up, gno
 Don't believe me, you can take the part off my car and give it a try.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/IMG_0082.jpg">
+	<img class="col three" src="/img/IMG_0082.jpg">
 </div>
 
-
-<div class="col three caption">
-	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
-</div>
