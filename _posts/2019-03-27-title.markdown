@@ -16,6 +16,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 
 ## Pros:  
 <br>
+
 - Steering response and feedback is improved, especially on quick (but smooth) inputs. You know when the steering is slighly off-centre and changes in grip due to road angle or undulation are far more instantaneous (chassis flex masks the onset of grip). Steering is tighter.
 
 - Consistency in bumpy corners; where lateral movement of the strut towers will inconsistently react to the mid corner bumps without the bar, the XIII strut tower brace keeps the car reacting in the same fashion. Very predictable, probably great if youre trying to learn a track.
@@ -37,6 +38,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 
 ## Cons:  
 <br> 
+
 - Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
 
 - Increase in cabin NVH; vibrations in car are felt and heard more. Don't use racecar parts if you're not ready for racecar tendencies.
