@@ -4,7 +4,7 @@ title: XIIIMOTORSPORTS Strut Tower Brace Review
 date: 2019-03-27 21:00:00
 description: XIIIMOTORSPORTS Strut Tower Brace
 ---
-# XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:
+# XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:#   
 
 <div class="img_row">
 	<img class="col three" src="/img/IMG_0075.jpg">
@@ -14,7 +14,7 @@ I will keep it painfully unbiased, and get right into the pros and cons. No trac
 
 Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, outlining the work of the strut bar). Tests done with bar on and off.
 
-## Pros:     
+## Pros: ##   
 
 - Steering response and feedback is improved, especially on quick (but smooth) inputs. You know when the steering is slighly off-centre and changes in grip due to road angle or undulation are far more instantaneous (chassis flex masks the onset of grip). Steering is tighter.
 
@@ -35,7 +35,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 	<img class="col three" src="/img/IMG_0077.jpg">
 </div>
 <br>
-## Cons:     
+## Cons:##     
 
 - Felt additional understeer on some corners - stiffer front chassis means less loading on front tires. Pair this bar with a slightly larger rear anti-roll bar and lower spring rate, and its grip city. Its like adding a larger front ARB.
 
@@ -47,7 +47,7 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 	<img class="col three" src="/img/IMG_0079.jpg">
 </div>
 
-## Is it Worth:    
+## Is it Worth:##       
 
 Absolutely. Remove some of the compromise that lets the BRZ/FRS/86 appeal to the consumer masses, and install a real performance part that adds consistency to the vehicle, and helps you focus on your own driving skill.
 
