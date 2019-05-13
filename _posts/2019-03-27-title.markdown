@@ -6,6 +6,10 @@ description: XIIIMOTORSPORTS Strut Tower Brace
 ---
 # XIIIMOTORSPORTS STRUT TOWER BRACE REVIEW:
 
+<div class="img_row">
+	<img class="col three" src="/img/IMG_0075.jpg">
+</div>
+
 I will keep it painfully unbiased, and get right into the pros and cons. No track experience with the bar yet, just street manners. Fully disclosing that I drive for Xiii, so you can take my review with that in mind, but note that this is fully candid and am not paid for doing this, nor was the bar a free item.
 
 Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, outlining the work of the strut bar). Tests done with bar on and off.
@@ -27,6 +31,9 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 - Made locally in Brampton by your friends at XIIImotorsports
 
 - Lightweight DOM tube support member
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/IMG_0077.jpg">
+</div>
 
 ## Cons:
 
@@ -35,6 +42,10 @@ Tests done on OE Primacy HP tires, < 10 degrees C (hard tire, with less grip, ou
 - Increase in cabin NVH; vibrations in car are felt and heard more. Don't use racecar parts if you're not ready for racecar tendencies.
 
 - Slight interference with the factory sound tube assembly (see under that AWESOME XIIIMOTORSPORTS welded badge). This interference causes noise on start up, but that's it. All of you delete the sound tube anyway.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/IMG_0079.jpg">
+</div>
 
 ## Is it Worth:
 
@@ -45,23 +56,10 @@ Did I mention you can order these powder coated? Functional engine dress up, gno
 Don't believe me, you can take the part off my car and give it a try.
 
 <div class="img_row">
-	<img class="col three" src="/img/9.jpg">
+	<img class="col three" src="{{ site.baseurl }}/img/IMG_0082.jpg">
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/9.jpg">
-</div>
+
+
 <div class="col three caption">
 	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
-</div>
-<div class="img_row">
-	<img class="col two" src="/img/8.jpg">
-	<img class="col one" src="/img/10.jpg">
-</div>
-
-
-
-<div class="img_row">
-	<img class="col one" src="/img/11.jpg">
-	<img class="col one" src="/img/12.jpg">
-	<img class="col one" src="/img/7.jpg">
 </div>
