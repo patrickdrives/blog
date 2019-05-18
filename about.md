@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/Blog 1/IMG_4191.jpg">
 
 I’m Pat, and I have a car problem.
 
