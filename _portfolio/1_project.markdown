@@ -35,9 +35,6 @@ We left Takasaki (as close to Gunma as our JR pass could get us) in our Nissan D
 
 <div class="img_row">
 	<img class="col one" src="/img/dz blog/display.jpg" alt="" title="Centre Display"/>
-</div>
-
-<div class="img_row">
 	<img class="col one" src="/img/dz blog/sim.jpg" alt="" title="Sim"/>
 </div>
 
@@ -60,7 +57,7 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 </div>
 
 <div class="img_row">
-	<img class="col three" src="/img/dz blog/viperkitrx7.jpg" alt="" title="rx7side"/>
+	<img class="col three" src="/img/dz blog/rx7side.jpg" alt="" title="rx7side"/>
 </div>
 
 
@@ -86,15 +83,12 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/lanevof.jpg" alt="" title="Rally Evo Front"/>
-</div>
-
-<div class="img_row">
 	<img class="col three" src="/img/dz blog/lanevor.jpg" alt="" title="Rally Evo Rear"/>
 </div>
 
 
 <div class="col three caption">
-	"Cars" eyes are a thing in Japan. Dude RIPS this evo, thing had a roll cage and was pretty beat up.
+	"Cars" eyes are a thing in Japan. Dude RIPS this "lan-evo", thing is pretty beat up.
 </div>	
 
 <div class="img_row">
@@ -115,9 +109,6 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/sil86.jpg" alt="" title="A Pair of Legends"/>
-</div>
-
-<div class="img_row">
 	<img class="col three" src="/img/dz blog/sil86r.jpg" alt="" title="A Pair of Legends, rear"/>
 </div>
 
@@ -127,14 +118,11 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/whts15.jpg" alt="" title="White Silvia"/>
-</div>
-
-<div class="img_row">
-	<img class="col three" src="/img/dz blog/whtschas.jpg" alt="" title="White Silvia"/>
+	<img class="col three" src="/img/dz blog/whtschas.jpg" alt="" title="Other White Silvia"/>
 </div>
 
 <div class="col three caption">
-	The Nissan Silvia S15 was my favourite car for a long time. Stoke was HIGH
+	The Nissan Silvia was my favourite car for a long time. Stoke was HIGH
 </div>	
 
 I hope you guys enjoyed the album. I will be releasing another photo album attached to a story about the Mount Akina drive. 
