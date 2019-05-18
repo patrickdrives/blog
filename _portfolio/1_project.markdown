@@ -90,6 +90,9 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/lanevof.jpg" alt="" title="Rally Evo Front"/>
+</div>	
+
+<div class="img_row">
 	<img class="col three" src="/img/dz blog/lanevor.jpg" alt="" title="Rally Evo Rear"/>
 </div>
 
@@ -116,6 +119,9 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/sil86.jpg" alt="" title="A Pair of Legends"/>
+</div>	
+
+<div class="img_row">
 	<img class="col three" src="/img/dz blog/sil86r.jpg" alt="" title="A Pair of Legends, rear"/>
 </div>
 
@@ -125,6 +131,9 @@ Another thing that surprised me was the crowd outside. Just incredible - the pop
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/whts15.jpg" alt="" title="White Silvia"/>
+</div>	
+
+<div class="img_row">
 	<img class="col three" src="/img/dz blog/whtschas.jpg" alt="" title="Other White Silvia"/>
 </div>
 
