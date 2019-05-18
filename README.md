@@ -1,8 +1,12 @@
-# *The Patrick.Drives Blog		
+# The Patrick.Drives Blog		
 
 This is my attempt at getting more familiar with github and have a blog hosted for on github pages.
 
 Enjoy some car content and some photography! 
+
+https://patrickdrives.github.io/
+
+https://www.flickr.com/photos/datumimages/
 
 <hr/>
 The MIT License (MIT)
