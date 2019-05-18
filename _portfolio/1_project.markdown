@@ -36,6 +36,7 @@ We left Takasaki (as close to Gunma as our JR pass could get us) in our Nissan D
 <div class="img_row">
 	<img class="col one" src="/img/dz blog/display.jpg" alt="" title="Centre Display"/>
 	<img class="col one" src="/img/dz blog/sim.jpg" alt="" title="Sim"/>
+	<img class="col one" src="/img/dz blog/r35dz.jpg" alt="" title="Sim"/>
 </div>
 
 <div class="col three caption">
@@ -46,7 +47,13 @@ What really attracted my attention lied outside the cafe. The shop has a variety
 
 <div class="img_row">
 	<img class="col three" src="/img/dz blog/3.jpg" alt="" title="Takumi, Keisuke, and a Young Fan"/>
+</div>
+
+<div class="img_row">
 	<img class="col three" src="/img/dz blog/5.jpg" alt="" title="RX7 Garage"/>
+</div>
+
+<div class="img_row">
 	<img class="col three" src="/img/dz blog/6.jpg" alt="" title="Shop Build Itasha"/>
 </div>
 
