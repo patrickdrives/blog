@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Project
+title: Japan; Initial D Cafe
 description: a project with a background image
 img: /img/12.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Initial D is definitely one of those pieces of car culture that assisted in getting a lot of people into racing. For many car-kids in North America, Initial D was one of those arcade games that you'd see and immediately just know: I MUST PLAY. If you dig deeper, you find out it was an anime, but it wasn't really something found on TV - at least not for me due to being born a bit later. In the age of streaming you can find the 
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 
