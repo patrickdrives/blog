@@ -1,56 +1,56 @@
 ---
 layout: post
-title: Japan; Initial D Cafe
-description: a project with a background image
-img: /img/12.jpg
+title: Japan Trip, Initial D
+description: Just a couple of gaijin's doing weeb activites
+img: /img/dz blog/7.jpg
 ---
 
-Initial D is definitely one of those pieces of car culture that assisted in getting a lot of people into racing. For many car-kids in North America, Initial D was one of those arcade games that you'd see and immediately just know: I MUST PLAY. If you dig deeper, you find out it was an anime, but it wasn't really something found on TV - at least not for me due to being born a bit later. In the age of streaming you can find the 
-
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Initial D is definitely one of those pieces of car culture that assisted in getting a lot of people into racing. For many car-kids in North America, Initial D was one of those arcade games that you'd see and immediately just know: I MUST PLAY. If you dig deeper, you find out it was an anime, but it wasn't really something found on TV - at least not for me due to being born a bit later. In the age of streaming you can find out what that arcade game was all about, and you'd quickly realize why the story struck the hearts of many. The underdog tofu delivery boy battles drivers to become the best, and his progression in driving skill shows a good mix of confidence and humility - very relatable, as a driver myself. If you can see past the plot armour and cheeziness of the show, its pretty fun to watch, and makes you want to binge(and cringe) every stage. 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	<img class="col three" src="/img/dz blog/2.jpg" alt="" title="Mount Haruna"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+Knowing about Initial D's real life inspiration, Mount Haruna, and D'z Racing Cafe Garage through [Noriyaro's feature video](https://www.youtube.com/watch?v=VJoRPJny4XE), I knew I wanted to make the trip to those spots. Of course I have to thank my awesome girlfriend for being cool with allocating trip time to lots of car centred activites during our visit to Japan. In planning our trip, I visited a travel agency near Toronto that sold us our Japan Rail (JR) passes. The travel advisor, a Japanese man, found my interests in going to the Gunma Prefecture odd, since its not a common tourist destination, which also explains why you cannot actually get to Mt Haruna directly by JR. You have to take local transit, or rent a car. Knowing I wanted to drive the famous Mt Haruna, or known in Initial D as "Mt Akina", we chose the rental option.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col three" src="/img/dz blog/1.jpg" alt="" title="Me and the Dayz"/>
 </div>
+
+At the time of our trip, I was only 22 years old meaning I couldn't find a car rental as easily due to the minimum age for most rental companies being 25. Unfortunately, the rental companies that offered interesting vehicles like Nissan Silvias, Nissan Skylines, or Lancer Evolutions all adopted the age 25 rule, so I was forced to take a kei car. This doesn't really count as settling to me, since I was happy to take in this aspect of japanese culture, north americans are far too arrogant to be seen driving something so practical, so they aren't as big of a thing here. Japanese citizens are charged more depending on the size of their car, so they have some incentive to pick a kei car. Despite north americans not having the same legislation, the kei car is not a hot commodity, thus only a couple models are sold here.
+
+<div class="img_row">
+	<img class="col three" src="/img/dz blog/storefront.jpg" alt="" title="D'z Racing Cafe Garage"/>
+</div>
+
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Views From the Roox
+</div>	
+
+We left Takasaki (as close to Gunma as our JR pass could get us) in our Nissan Dayz Roox, and headed straight to the Gunma Prefecture, home to Fujiwara Tofu shop's delivery driver, Takumi Fujiwara. D'z Cafe is actually a 10 minute drive from the base of the mountain, AKA the finish line of Mt Akina, from the anime. We arrived to the cafe, and only spent a short while inside, browsing their displays and eating the shop's chicken curry. 
+
+<div class="img_row">
+	<img class="col three" src="/img/dz blog/curry.jpg" alt="" title="Dz Tire Curry"/>
 </div>
 
+<div class="img_row">
+	<img class="col left" src="/img/dz blog/display.jpg" alt="" title="Centre Display"/>
+</div>
 
-<br/><br/><br/>
+<div class="img_row">
+	<img class="col right" src="/img/dz blog/sim.jpg" alt="" title="Sim"/>
+</div>
 
+<div class="col three caption">
+	Unfortunately the display area was fenced off, and the sim was just for show. They were playing Initial D, and had a Takumi cardboard cut out, so I can't say I'm mad 
+</div>									   
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+What really attracted my attention lied outside the cafe. The shop has a variety of cars on display, which of course included the cars from the show, but they also had a lot of their own builds. Of Course you gotta have the main cars from the show, Takumi's panda AE86 hatch, and his teammate Keisuke's yellow FD3S. But the shop also had some really rad builds of their own that included a fleet of RX7's and Nissan Silvias, in perfect harmony with the rest of Japanese drift culture. They even have a replica of Han's RX7, from The Fast and the Furious Tokyo Drift.
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<div class="img_row">
+	<img class="col one" src="/img/dz blog/3.jpg" alt="" title="Takumi, Keisuke, and a Young Fan"/>
+	<img class="col one" src="/img/dz blog/5.jpg" alt="" title="RX7 Garage"/>
+	<img class="col one" src="/img/dz blog/6.jpg" alt="" title="Shop Build Itasha"/>
+</div>
+
+Another thing that surprised me was the crowd outside. Just incredible - the popularity of car culture in Japan, and the fanbase of the Initial D series, even years after it's end. We were lucky to have been at the cafe the same time as a local car meet, and to my pleasure, they stayed long enough for me to shoot. 
